@@ -102,15 +102,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_star_prnt:
-    dependency: "direct main"
-    description:
-      path: "."
-      ref: HEAD
-      resolved-ref: f9ade45dc31dd5d9976deb8e14af48389a0edc69
-      url: "https://github.com/yasfdany/flutter_star_prnt.git"
-    source: git
-    version: "2.4.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter

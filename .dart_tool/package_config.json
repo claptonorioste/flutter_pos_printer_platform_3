@@ -80,12 +80,6 @@
       "languageVersion": "3.7"
     },
     {
-      "name": "flutter_star_prnt",
-      "rootUri": "file:///home/cce/.pub-cache/git/flutter_star_prnt-f9ade45dc31dd5d9976deb8e14af48389a0edc69/",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "flutter_test",
       "rootUri": "file:///home/cce/snap/flutter/common/flutter/packages/flutter_test",
       "packageUri": "lib/",
